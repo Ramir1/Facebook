@@ -2,6 +2,7 @@
     "name": "socialiteproviders/facebook",
     "description": "Facebook (facebook.com) OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [{
         "name": "Oleksandr Prypkhan (Alex Wells)",
         "email": "autaut03@googlemail.com"
